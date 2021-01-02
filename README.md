@@ -1,2 +1,4 @@
 # Game_Silent_Hunter_x86
 Using 8086 ALP implement a game where a shooter (a ship/submarine) can fire (missiles/torpedoes) and shoot at targets (using space bar) and move in four directions using arrow keys.
+The Game - Silent Hunter
+The game is based on a scenario of World War 2 where German submarines used to sink the Allied merchant vessels. The player is in command of a  submarine that can move in all four directions using the arrow keys. The submarine can fire torpedoes using the Space bar. The aim of the submarine is to sink as many ships as it can before it finishing all its lives. If you miss a ship, the enemy can give away your position to the Allied Naval forces, so your chance of getting detected increases. Showcase your skills out there in the sea and sink as many ships as you can. Happy Gaming !!!
